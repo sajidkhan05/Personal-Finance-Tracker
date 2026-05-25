@@ -1,0 +1,5 @@
+Compile all files
+javac -d out Transaction.java Income.java Expense.java Account.java ReportGenerator.java Main.java
+
+Run
+java -cp out finance.Main
